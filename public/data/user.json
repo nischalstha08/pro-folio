@@ -1,0 +1,156 @@
+{
+  "user": {
+    "name": "Nischal Shrestha",
+    "email": "nischalstha08@gmail.com",
+    "resume_url": "https://www.nischalshrestha.info.np/resume/resume.pdf",
+    "logo_text": "nash",
+    "user_preferred_titles": [
+      "Full Stack Dev",
+      "Problem Solver",
+      "Tech Nerd"
+    ],
+    "bio": "ABOUT ME\n\nNischal Shrestha, 24\nKathmandu, Nepal\n\nI am a problem solver who is interested in solving everything tech. My main background and projects are in Software Development, Data Science and Artificial Intelligence, which I had the pleasure of working on during my studies and at my work. I love to work in teams and make meaningful contributions with like-minded people.\n\nWhen I’m not coding, you’ll find me reading novels, day dreaming or watching YouTube.\n\nFeel free to drop me a message if you want to chat about tech, novels, or the best YouTube rabbit holes—I'm always up for a good conversation!",
+    "education": [
+      {
+        "title": "Bachelor’s in Information Technology",
+        "school": "Tribhuvan University",
+        "degree": "Bachelors in IT",
+        "description": "Lalitpur, Nepal\nExpected 2025\n\nCoursework: DBMS, Algorithms, Software Engineering, Data Structures",
+        "place": "Lalitpur, Nepal"
+      }
+    ],
+    "work": [
+      {
+        "title": "Python Intern (Backend)",
+        "company": "Information Technology Concerns",
+        "start": "Jan 2025",
+        "end": "Present",
+        "description": "–Assisted in creating automated data pipelines for web scraping and data ingestion.\n– Worked with MySQL, MongoDB and Redis to store and query large datasets.\n– Utilized Docker and Linux for environment setup and deployment of data-centric services.\n– Documented APIs and pipeline logic for maintainability and team collaboration.",
+        "place": "Kathmandu, Nepal"
+      },
+      {
+        "title": "Technical Support Representative",
+        "company": "Kalash Services Pvt. Ltd",
+        "start": "Sep 2023",
+        "end": "Apr 2024",
+        "description": "– Resolved technical issues related to networks, IP configuration, and DNS.\n– Kept detailed support logs and worked directly with clients to solve connectivity problems.",
+        "place": "Lalitpur, Nepal"
+      },
+      {
+        "title": "Cloudworker (Data Annotation)",
+        "company": "CloudFactory",
+        "start": "May 2023",
+        "end": "Sep 2023",
+        "description": "–Labeled, cleaned, and verified datasets for machine learning and computer vision tasks.\n– Ensured data accuracy and adherence to strict project guidelines.",
+        "place": "Kathmandu, Nepal"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Django Blog",
+        "description": "A basic blog platform built with Django, HTML, CSS and Bootstrap.",
+        "techstack": ["django", "html", "css", "bootstrap"],
+        "github": "https://github.com/nischalstha08/django-blog.git",
+        "url": "https://github.com/nischalstha08/django-blog.git"
+      },
+      {
+        "name": "Web Scraper API",
+        "description": "A Python web scraper that fetches data and serves it via a Flask REST API (uses Scrapy under the hood).",
+        "techstack": ["python", "flask", "scrapy", "rest"],
+        "github": "https://github.com/nischalstha08/web-scraper-api.git",
+        "url": "https://github.com/nischalstha08/web-scraper-api.git"
+      },
+      {
+        "name": "RealAgents: House Sales Prediction",
+        "description": "Part of a DataCamp practical exam: analyzed house sales data and built LR & RF models to predict listing prices, achieving RMSE < 30,000.",
+        "techstack": ["python", "pandas", "scikit-learn"],
+        "github": "https://github.com/nischalstha08/realagents-house-sales.git",
+        "url": "https://github.com/nischalstha08/realagents-house-sales.git"
+      },
+      {
+        "name": "StudentPortal",
+        "description": "An ASP.NET MVC CRUD app using Entity Framework Core and SQL Server, built with .NET 8 MVC template and Bootstrap UI.",
+        "techstack": ["asp.net mvc", "c#", ".net core", "ef core", "sql server", "bootstrap"],
+        "github": "https://github.com/nischalstha08/StudentPortal.git",
+        "url": "https://github.com/nischalstha08/StudentPortal.git"
+      },
+      {
+        "name": "Project Placeholder",
+        "description": "Describe your next great project here.",
+        "techstack": ["tech1", "tech2"],
+        "github": "https://github.com/yourname/your-next-project",
+        "url": "https://github.com/yourname/your-next-project"
+      }
+    ],
+    "socials": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/nischalstha08",
+        "type": "Profile"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/nischalstha08/",
+        "type": "Profile"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Data Scientist Associate",
+        "issuer": "DataCamp",
+        "date": "Mar 2025",
+        "credential_id": "DSA0017235775056"
+      },
+      {
+        "name": "Data Analysis with Python",
+        "issuer": "Cognitive Class",
+        "date": "Jan 2025"
+      },
+      {
+        "name": "Python for Data Science and Machine Learning Bootcamp",
+        "issuer": "Udemy",
+        "date": "Mar 2025"
+      },
+      {
+        "name": "Analyze Sentiment with Natural Language API Skill Badge",
+        "issuer": "Google",
+        "date": "Apr 2025"
+      },
+      {
+        "name": "GitHub Foundations",
+        "issuer": "GitHub",
+        "date": "Apr 2025"
+      }
+    ],
+    "technical_skills": [
+      "Python",
+      "SQL",
+      "Bash",
+      "Pandas",
+      "Scikit-learn",
+      "Flask",
+      "Django",
+      "Scrapy",
+      "Selenium",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Docker",
+      "Git",
+      "Linux",
+      "REST APIs",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Problem Solving",
+      "Documentation",
+      "Fast Learning",
+      "Communication"
+    ]
+  }
+}
